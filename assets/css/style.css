@@ -35,8 +35,9 @@ h1 {
 img{
 	width: 20%;
 	height: 20%;
-	display: inline-block;
+	
 	float: left;
+	overflow: auto;
 }
 
 body{
@@ -78,8 +79,6 @@ h2 {
 
 #paragraph-1 {
 color: #777777;
-display: inline-block;
-float: right;
 width: 75%;
 
 }
