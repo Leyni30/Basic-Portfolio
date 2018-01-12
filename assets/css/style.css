@@ -40,6 +40,9 @@ img{
 	overflow: auto;
 }
 
+.imgp{
+	margin-left: 30px;
+}
 body{
 	width: 960px;
 	background-image: url(../images/dust_scratches.png);
